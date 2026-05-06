@@ -11,7 +11,7 @@ My studies are focused on Big Data Analytics and Statistical Learning, combining
 - [`Logistic Regression for Wine Quality Classification`](https://github.com/matteecala/wine-quality-logistic-regression): Classification of 1,599 wine samples using logistic regression. Performed exploratory analysis, addressed class imbalance, and refined models via AIC, ANOVA deviance tests and VIF checks. Validated with ROC curve and 100-fold cross-validation.
 
 ## 📫 **Get in touch**
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-calabr%C3%B2-231a08407/)
 - `matteo02.cala [at] gmail [dot] com`
 
 ## 🚀 **Skills**
